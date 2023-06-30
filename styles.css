@@ -1,0 +1,8 @@
+    img {
+        align-items: center;
+        justify-content: center center;
+        position: absolute;
+        left: 500px;
+        top: 10;
+        size-adjust: 200;
+    }
