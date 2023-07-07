@@ -1,0 +1,19 @@
+        img {
+            align-items: center;
+            justify-content: center center;
+            position: absolute;
+            left: 500px;
+            top: 10;
+            size-adjust: 200;
+        }
+        
+        .menu {
+            width: 300px;
+            height: 100px;
+            overflow: auto;
+        }
+        
+        #gradient {
+            height: 100px;
+            background-color: darkgreen;
+        }
